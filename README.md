@@ -26,6 +26,10 @@ python pretrain.py
 
 ## Evaluation
 You can evaluate the pretrained model by finetuning on downstream tasks
+
+Download the downstream data from https://github.com/deepchem/deepchem/tree/master/deepchem/molnet/load_function, and save the .csv files in the ./finetune/dataset/[dataset_name]/raw/, where [dataset_name] is replaced by the downstream dataset name. 
+For example, bace.csv is saved in './finetune/dataset/bace/raw/bace.csv'.
+
 ```
 cd finetune
 mkdir model_checkpoints
