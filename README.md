@@ -36,3 +36,16 @@ mkdir model_checkpoints
 python finetune.py
 ```
 
+Please cite our paper as follows. Thank you.
+"
+@article{zang2023hierarchical,
+  title={Hierarchical Molecular Graph Self-Supervised Learning for property prediction},
+  author={Zang, Xuan and Zhao, Xianbing and Tang, Buzhou},
+  journal={Communications Chemistry},
+  volume={6},
+  number={1},
+  pages={34},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
+"
