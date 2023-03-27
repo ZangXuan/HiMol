@@ -45,7 +45,6 @@ Please cite our paper as follows. Thank you.
   volume={6},
   number={1},
   pages={34},
-  year={2023},
-  publisher={Nature Publishing Group UK London}
+  year={2023}
 }
 "
