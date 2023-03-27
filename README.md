@@ -1,6 +1,6 @@
 # HiMol
 # Hierarchical Molecular Graph Self-supervised Learning for Property Prediction
-Official Pytorch implementation of HiMol model in the paper "Xuan Zang, Xianbing Zhao, Buzhou Tang. Hierarchical Molecular Graph Self-supervised Learning for Property Prediction". 
+Official Pytorch implementation of HiMol model in the paper "Zang, Xuan., Zhao, Xianbing. & Tang, Buzhou. Hierarchical Molecular Graph Self-Supervised Learning for property prediction. Commun Chem 6, 34 (2023)." https://doi.org/10.1038/s42004-023-00825-5. 
 
 ## Environment Setup
 
